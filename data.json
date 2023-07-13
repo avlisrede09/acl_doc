@@ -1,0 +1,675 @@
+[
+    {
+        "image": "DerGemeindebote-p01.png",
+        "bboxes": [
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    767,
+                    430,
+                    3069,
+                    660
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    648,
+                    739,
+                    3173,
+                    1003
+                ]
+            },
+            {
+                "class": "SeparatorRegion",
+                "bbox": [
+                    562,
+                    1091,
+                    3262,
+                    1148
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    575,
+                    1200,
+                    1250,
+                    1341
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1691,
+                    1191,
+                    2262,
+                    1333
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2944,
+                    1187,
+                    3251,
+                    1301
+                ]
+            },
+            {
+                "class": "GraphicRegion",
+                "bbox": [
+                    571,
+                    1376,
+                    3266,
+                    1433
+                ]
+            },
+            {
+                "class": "SeparatorRegion",
+                "bbox": [
+                    1561,
+                    1518,
+                    2279,
+                    1681
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1222,
+                    1716,
+                    2627,
+                    2501
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    575,
+                    1514,
+                    1021,
+                    2500
+                ]
+            },
+            {
+                "class": "GraphicRegion",
+                "bbox": [
+                    2629,
+                    1494,
+                    3278,
+                    2490
+                ]
+            },
+            {
+                "class": "GraphicRegion",
+                "bbox": [
+                    1498,
+                    2539,
+                    2356,
+                    2578
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    811,
+                    2688,
+                    1637,
+                    2833
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    588,
+                    2888,
+                    1888,
+                    3231
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    705,
+                    3253,
+                    1540,
+                    3344
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    590,
+                    3379,
+                    1885,
+                    3718
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    592,
+                    3735,
+                    1883,
+                    3966
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    600,
+                    3975,
+                    1877,
+                    4205
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    603,
+                    4220,
+                    1894,
+                    4907
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    705,
+                    4920,
+                    1900,
+                    5027
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1981,
+                    2688,
+                    3294,
+                    4522
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1996,
+                    4570,
+                    3296,
+                    5033
+                ]
+            }
+        ]
+    },
+    {
+        "image": "DerGemeindebote-p03.png",
+        "bboxes": [
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    662,
+                    486,
+                    905,
+                    584
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1486,
+                    484,
+                    2247,
+                    579
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2807,
+                    486,
+                    3124,
+                    577
+                ]
+            },
+            {
+                "class": "SeparatorRegion",
+                "bbox": [
+                    556,
+                    605,
+                    3232,
+                    639
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    552,
+                    732,
+                    1861,
+                    5073
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1935,
+                    729,
+                    3232,
+                    1032
+                ]
+            },
+            {
+                "class": "GraphicRegion",
+                "bbox": [
+                    2258,
+                    1132,
+                    2908,
+                    1167
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2170,
+                    1267,
+                    2994,
+                    1429
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1941,
+                    1450,
+                    3252,
+                    4429
+                ]
+            },
+            {
+                "class": "GraphicRegion",
+                "bbox": [
+                    2273,
+                    4473,
+                    2920,
+                    4511
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2000,
+                    4597,
+                    3194,
+                    4761
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1961,
+                    4791,
+                    3250,
+                    5082
+                ]
+            }
+        ]
+    },
+    {
+        "image": "DerGemeindebote-p10.png",
+        "bboxes": [
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    541,
+                    451,
+                    860,
+                    548
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1653,
+                    453,
+                    2414,
+                    548
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    3187,
+                    450,
+                    3430,
+                    544
+                ]
+            },
+            {
+                "class": "SeparatorRegion",
+                "bbox": [
+                    426,
+                    573,
+                    3542,
+                    605
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    412,
+                    922,
+                    1936,
+                    5032
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2025,
+                    696,
+                    3541,
+                    1683
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2190,
+                    1783,
+                    3364,
+                    1929
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2025,
+                    1959,
+                    3553,
+                    3955
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2031,
+                    3947,
+                    3542,
+                    4490
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2028,
+                    4490,
+                    3537,
+                    4836
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2031,
+                    4846,
+                    3537,
+                    5030
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    425,
+                    701,
+                    1930,
+                    922
+                ]
+            }
+        ]
+    },
+    {
+        "image": "DerGemeindebote-p21.png",
+        "bboxes": [
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    812,
+                    411,
+                    3002,
+                    629
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    360,
+                    707,
+                    3480,
+                    952
+                ]
+            },
+            {
+                "class": "SeparatorRegion",
+                "bbox": [
+                    357,
+                    1010,
+                    3470,
+                    1060
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    362,
+                    1105,
+                    997,
+                    1227
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2535,
+                    1107,
+                    3465,
+                    1255
+                ]
+            },
+            {
+                "class": "SeparatorRegion",
+                "bbox": [
+                    360,
+                    1282,
+                    3472,
+                    1330
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1455,
+                    1430,
+                    2342,
+                    1580
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1162,
+                    1640,
+                    2777,
+                    2515
+                ]
+            },
+            {
+                "class": "GraphicRegion",
+                "bbox": [
+                    362,
+                    1625,
+                    800,
+                    2520
+                ]
+            },
+            {
+                "class": "GraphicRegion",
+                "bbox": [
+                    3010,
+                    1640,
+                    3470,
+                    2517
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    355,
+                    2595,
+                    1872,
+                    2937
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1235,
+                    2932,
+                    1652,
+                    3007
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1960,
+                    2612,
+                    3492,
+                    5038
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    364,
+                    3057,
+                    1883,
+                    4242
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    373,
+                    4247,
+                    1884,
+                    5142
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    2070,
+                    5048,
+                    3487,
+                    5145
+                ]
+            }
+        ]
+    },
+    {
+        "image": "DerGemeindebote-p24.png",
+        "bboxes": [
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    461,
+                    392,
+                    711,
+                    483
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1504,
+                    388,
+                    2276,
+                    483
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    3019,
+                    385,
+                    3347,
+                    483
+                ]
+            },
+            {
+                "class": "SeparatorRegion",
+                "bbox": [
+                    352,
+                    504,
+                    3464,
+                    545
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    351,
+                    638,
+                    1880,
+                    4490
+                ]
+            },
+            {
+                "class": "GraphicRegion",
+                "bbox": [
+                    798,
+                    4544,
+                    1446,
+                    4572
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    640,
+                    4651,
+                    1612,
+                    4801
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    381,
+                    4868,
+                    1883,
+                    5137
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1938,
+                    640,
+                    3458,
+                    1716
+                ]
+            },
+            {
+                "class": "TextRegion",
+                "bbox": [
+                    1948,
+                    1720,
+                    3475,
+                    5144
+                ]
+            }
+        ]
+    }
+]
