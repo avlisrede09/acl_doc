@@ -1,7 +1,7 @@
 # ACL Doc: Análise de Layouts Complexos com Machine Learning
 
 [![Licença: MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contribuidores do GitHub](https://img.shields.io/github/contributors/avlisrede09/acl_doc.git)](https://github.com/avlisrede09/acl_doc.git/graphs/contributors)
+[![Contribuidores do GitHub](https://img.shields.io/github/contributors/avlisrede09/acl_doc)](https://github.com/avlisrede09/acl_doc.git/graphs/contributors)
 
 Bem-vindo ao repositório ACL Doc! Aqui você encontrará um projeto relacionado à análise de layouts complexos com o uso de técnicas de machine learning. Este repositório é desenvolvido e mantido por [Eder](https://github.com/avlisrede09).
 
